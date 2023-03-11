@@ -1,4 +1,4 @@
-# amiga-app-template
+# Bobcats Team template test
 
 This repository is designed to streamline the creation of a new application deployable to the Amiga brain.
 
